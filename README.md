@@ -2,7 +2,7 @@
 
 - 👨 Me chamo Gabriel Carrijo 
 - ✈️ Atualmente trabalho com turismo
-- 📚 Estudando Desenvolvimento de Sistemas - ETEC
+- 📚 Estudando Desenvolvimento de Sistemas - ETEC JMS
 
 <div>
   <a href="https://carrijo-ga.netlify.app/">
