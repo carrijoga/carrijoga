@@ -25,20 +25,10 @@
 ##
 
 <div> 
-<a href="https://discord.gg/9vsyCX8" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-#SEMRAGE-05122A?style=flat&logo=discord" alt="discord"/>
-</a>
-<p align="center" style="background:blue">
-  <a href="https://instagram.com/carrijo_ga" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-carrijo_ga-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://linkedin.com/in/gabrielcarrijo" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-GabrielCarrijo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
- <a href="mailto:gabriel30carrijo@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gabrielcarrijo-05122A?style=flat&logo=linkedin" alt="gmail"/>
-</a>
-</p>
+  <a href="https://instagram.com/carrijo_ga" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/9vsyCX8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gabriel30carrijo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielcarrijo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/carrijo-ga/carrijo-ga/blob/output/github-contribution-grid-snake.svg)
 
