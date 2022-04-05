@@ -1,7 +1,6 @@
 ## Bem-Vindo ao meu perfil!!
-
-- 👨 Me chamo Gabriel Carrijo 
-- ✈️ Atualmente trabalho com turismo
+ 
+- ✈️ Atualmente trabalho com turismo (CVC Corp)
 - 📚 Estudando Desenvolvimento de Sistemas - ETEC JMS
 
 <div>
