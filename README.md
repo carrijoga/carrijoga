@@ -25,18 +25,18 @@
 ##
 
 <div> 
+<a href="https://discord.gg/9vsyCX8" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-#SEMRAGE-05122A?style=flat&logo=discord" alt="discord"/>
+</a>
 <p align="center" style="background:blue">
-  <a href="https://instagram.com/birobirobiro" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=instagram" alt="instagram"/>
+  <a href="https://instagram.com/carrijo_ga" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-carrijo_ga-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://linkedin.com/in/birobirobiro" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/gabrielcarrijo" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-GabrielCarrijo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://youtube.com/birobirobiro" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-  <a href="https://twitch.com/birobirobiro" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=twitch" alt="twitch"/>
+ <a href="mailto:gabriel30carrijo@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-gabrielcarrijo-05122A?style=flat&logo=linkedin" alt="gmail"/>
 </a>
 </p>
  
