@@ -20,7 +20,7 @@
 ![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-05122A?style=flat&logo=BOOTSTRAP)&nbsp;
 ![Delphi](https://img.shields.io/badge/-DELPHI-05122A?style=flat&logo=JAVA)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-![C#](https://img.shields.io/badge/-CSHARP-05122A?style=flat&logo=PHP)&nbsp;
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=PHP)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MARIADB-05122A?style=flat&logo=MARIADB)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
