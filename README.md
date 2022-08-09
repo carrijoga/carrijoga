@@ -7,7 +7,7 @@
 
 - 📚 I'm studying Desenvolvimento de Sistemas - [ETEC José Martimiano da Silva](https://etecribeiraopreto.com.br/)
 
-- 🌱 I'm currently learning PHP, Java, HTML5, CSS3, Bootstrap
+- 🌱 I'm currently learning C#, PHP, Delphi, HTML5, CSS3, Bootstrap
 
 - 🚀  How to reach me [carrijo-ga.dev](https://carrijo-ga.netlify.app/)
 
@@ -18,8 +18,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-05122A?style=flat&logo=BOOTSTRAP)&nbsp;
-![Java](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=JAVA)&nbsp;
+![Delphi](https://img.shields.io/badge/-DELPHI-05122A?style=flat&logo=JAVA)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
+![C#](https://img.shields.io/badge/-CSHARP-05122A?style=flat&logo=PHP)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MARIADB-05122A?style=flat&logo=MARIADB)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
