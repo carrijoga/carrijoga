@@ -17,8 +17,9 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
+![JS](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat&logo=JAVASCRIPT)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-05122A?style=flat&logo=BOOTSTRAP)&nbsp;
-![Delphi](https://img.shields.io/badge/-DELPHI-05122A?style=flat&logo=JAVA)&nbsp;
+![Delphi](https://img.shields.io/badge/-DELPHI-05122A?style=flat&logo=DELPHI)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![C#](https://img.shields.io/badge/-CSHARP-05122A?style=flat&logo=C#)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MARIADB-05122A?style=flat&logo=MARIADB)&nbsp;
