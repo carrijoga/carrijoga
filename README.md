@@ -2,9 +2,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carrijo-ga&color=blueviolet" alt="Profile views" /> 
 
-
-- 🔭 I'm currently working on RexturAdvance (CVC Corp)
-
 - 📚 I'm studying Desenvolvimento de Sistemas - [ETEC José Martimiano da Silva](https://etecribeiraopreto.com.br/)
 
 - 🌱 I'm currently learning C#, PHP, Delphi, HTML5, CSS3, Bootstrap
