@@ -1,8 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FAFAD2&center=true&width=1000&lines=Ol%C3%A1%2C+Seja+bem+vindo(a);Sou+o+Gabriel+Carrijo;Estou+estudando+para+me+tornar+programador!)](https://git.io/typing-svg)
 
 - 👩🏻‍💻 Estudando com foco em Front-End;
-- 📚 Linguagens que aprendi na [ETEC José Martimiano da Silva](https://etecribeiraopreto.com.br/):<br>
-<p align="left">
+- 📚 Formado em Desenvolvimento de Sistemas na [ETEC José Martimiano da Silva](https://etecribeiraopreto.com.br/);<br>
+
+##
+
+## 🛠 &nbsp;Linguagens
+<p align="center">
   <a hreft="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,java,cs,mysql,git&theme=dark" height="30"/>
   </a>
