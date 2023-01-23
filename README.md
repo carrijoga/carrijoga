@@ -9,7 +9,7 @@
 
 <p align="center">
   <a hreft="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,java,cs,mysql,git&theme=dark" height="45"/>
+    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,js,php,java,cs,react,mysql,git&theme=dark" height="45"/>
   </a>
 </p>
 
@@ -26,7 +26,6 @@
 
    Programação WEB: HTML, CSS, PHP, ASP.NET e MySQL.
   Mobile & Desktop: Java (POO) & Delphi. -->
-
 ##
        
 <div align="center">  
