@@ -26,6 +26,8 @@
 
    Programação WEB: HTML, CSS, PHP, ASP.NET e MySQL.
   Mobile & Desktop: Java (POO) & Delphi. -->
+
+##
        
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carrijo-ga&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=dark" alt="Gabriel Carrijo's github stats"/> 
