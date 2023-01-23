@@ -5,7 +5,7 @@
 
 ##
 
-## 🛠 &nbsp;Linguagens
+🛠 &nbsp;Linguagens
 <p align="center">
   <a hreft="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,java,cs,mysql,git&theme=dark" height="30"/>
