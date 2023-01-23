@@ -5,7 +5,7 @@
 
 <br>
 
-## 🛠 &nbsp;Linguagens
+## 🛠 &nbsp;Experiência nas linguagens
 
 <p align="center">
   <a hreft="https://skillicons.dev">
