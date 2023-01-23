@@ -4,6 +4,7 @@
 - 📚 Formado em Desenvolvimento de Sistemas na [ETEC José Martimiano da Silva](https://etecribeiraopreto.com.br/);<br>
 
 <br>
+
 ## 🛠 &nbsp;Tech Stack
 
 <p align="center">
