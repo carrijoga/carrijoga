@@ -5,7 +5,7 @@
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Linguagens
 
 <p align="center">
   <a hreft="https://skillicons.dev">
