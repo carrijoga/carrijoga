@@ -2,6 +2,9 @@
 
 - 👩🏻‍💻 Estudando com foco em Front-End;
 - 📚 Linguagens que aprendi na [ETEC José Martimiano da Silva](https://etecribeiraopreto.com.br/):<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,java,cs,mysql,git&theme=dark)](https://skillicons.dev)
+
+<!--
 <code><img height="25" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" alt="BOOTSTRAP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
@@ -10,7 +13,7 @@
 <code><img height="25" alt="MYSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="25" alt="JAVA" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
-  <!-- Programação WEB: HTML, CSS, PHP, ASP.NET e MySQL.
+   Programação WEB: HTML, CSS, PHP, ASP.NET e MySQL.
   Mobile & Desktop: Java (POO) & Delphi. -->
        
 <div align="center">  
