@@ -3,11 +3,14 @@
 - 👩🏻‍💻 Estudando com foco em Front-End;
 - 📚 Linguagens que aprendi na [ETEC José Martimiano da Silva](https://etecribeiraopreto.com.br/):<br>
 <code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" alt="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" alt="ASP.NET" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
+<code><img height="20" alt="MYSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" alt="JAVA" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
-  Programação WEB: HTML, CSS, PHP, ASP.NET e MySQL. <br>
-  Mobile & Desktop: Java (POO) & Delphi.
+  <!-- Programação WEB: HTML, CSS, PHP, ASP.NET e MySQL.
+  Mobile & Desktop: Java (POO) & Delphi. -->
        
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carrijo-ga&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=dark" alt="Gabriel Carrijo's github stats"/> 
