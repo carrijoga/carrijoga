@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FAFAD2&center=true&width=1000&lines=Ol%C3%A1%2C+Seja+bem+vindo(a);Sou+o+Gabriel+Carrijo;Estou+estudando+para+me+tornar+programador!)](https://git.io/typing-svg)
 
-- 👩🏻‍💻 Estudando com foco em Front-End;
+- 💻 Estudando linguagens com foco em Front-End;
 - 📚 Formado em Desenvolvimento de Sistemas na [ETEC José Martimiano da Silva](https://etecribeiraopreto.com.br/);<br>
+- 👨🏻‍💻 Assistente de Suporte Técnico na [GR3B - Soluções Tecnológicas](https://gr3b.com);<br>
 
 <br>
 
