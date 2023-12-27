@@ -1,50 +1,28 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FAFAD2&center=true&width=1000&lines=Ol%C3%A1%2C+Seja+bem+vindo(a);Sou+o+Gabriel+Carrijo;Estou+estudando+para+me+tornar+programador!)](https://git.io/typing-svg)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriel Carrijo
+=======================================================================================================================================
 
-- 💻 Estudando linguagens com foco em Front-End;
-- 📚 Formado em Desenvolvimento de Sistemas na [ETEC José Martimiano da Silva](https://etecribeiraopreto.com.br/);<br>
-- 👨🏻‍💻 Assistente de Suporte Técnico na [GR3B - Soluções Tecnológicas](https://gr3b.com);<br>
+Helpdesk Support
+----------------
 
-<br>
+Helpdesk Support getting into programming
 
-## 🛠 &nbsp;Experiência nas linguagens
+* 🌍  I'm based in Ribeirão Preto, SP
+* 🧠  I'm learning Angular
 
-<p align="center">
-  <a hreft="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,js,php,java,cs,react,mysql,git&theme=dark" height="45"/>
-  </a>
+### Skills
+
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-<!--
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,php,java,cs,mysql,git&theme=dark)](https://skillicons.dev)
 
-<code><img height="25" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="25" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="25" alt="BOOTSTRAP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="25" alt="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" alt="ASP.NET" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
-<code><img height="25" alt="MYSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="25" alt="JAVA" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+### Socials
 
-   Programação WEB: HTML, CSS, PHP, ASP.NET e MySQL.
-  Mobile & Desktop: Java (POO) & Delphi. -->
-##
-       
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carrijo-ga&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=dark" alt="Gabriel Carrijo's github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carrijo-ga&layout=compact&hide_border=true&bg_color=0d1117&theme=dark"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=carrijoga&hide_border=true&bg_color=0d1117&theme=dark"/>
-</div>
+<p align="left"> <a href="https://www.github.com/carrijoga" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/carrijo_ga" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gabrielcarrijo/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-##
+### Badges
 
-<p align="center">
-  <a href="https://www.instagram.com/carrijo_ga/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-carrijo_ga-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/gabrielcarrijo/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Gabriel_Carrijo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://cutt.ly/carrijo_ga" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-My_Website-05122A?style=flat" alt="my website"/>
-</a>
-</p>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/carrijoga"><img src="https://github-readme-stats.vercel.app/api?username=carrijoga&show_icons=true&hide=contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="carrijoga's GitHub stats" /></a>
