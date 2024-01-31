@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Helpdesk Support getting into programming
 
 * 🌍  I'm based in Ribeirão Preto, SP
-* 🧠  I'm learning Angular
+* 🧠  I'm learning C# w/ Blazor
 
 ### Skills
 
