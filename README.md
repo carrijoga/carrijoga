@@ -1,5 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gabriel Carrijo
-----------------
+<h1 align="center">
+  Hi <img src="assets/images/Hi.gif" alt="hi gif" width="33">, I'm Gabriel a 🇧🇷 software developer
+</h1>
+&nbsp; 
+
+<div style="text-align: center;">
+
+  ![Snake animation](https://raw.githubusercontent.com/carrijoga/carrijoga/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
 
 Helpdesk Support getting into programming
 
